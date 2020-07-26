@@ -1,1 +1,0 @@
-# Simple-salary-prediction-model
